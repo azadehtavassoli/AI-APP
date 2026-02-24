@@ -1,0 +1,23 @@
+﻿{
+    "processes":  [
+                      {
+                          "stdout":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\knowledge_mcp.out.log",
+                          "pid":  36412,
+                          "name":  "knowledge_mcp",
+                          "stderr":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\knowledge_mcp.err.log"
+                      },
+                      {
+                          "stdout":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\backend.out.log",
+                          "pid":  35240,
+                          "name":  "backend",
+                          "stderr":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\backend.err.log"
+                      },
+                      {
+                          "stdout":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\frontend.out.log",
+                          "pid":  13536,
+                          "name":  "frontend",
+                          "stderr":  "C:\\Users\\azade\\Documents\\02-Project\\Turing\\sprint2_Project\\logs\\runtime\\frontend.err.log"
+                      }
+                  ],
+    "started_at":  "2026-02-24T09:02:52.1483272+01:00"
+}

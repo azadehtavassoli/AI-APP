@@ -1,0 +1,46 @@
+# FastAPI Backend Dependencies
+
+# ===== Web Framework =====
+fastapi>=0.109.0  # Modern web framework for building APIs
+uvicorn[standard]>=0.27.0  # ASGI server to run FastAPI
+python-multipart>=0.0.6  # Support for form data and file uploads
+
+# ===== Configuration & Validation =====
+pydantic>=2.6.0  # Data validation using type hints
+pydantic-settings>=2.1.0  # Settings management with Pydantic
+python-dotenv>=1.0.0  # Load environment variables from .env file
+
+# ===== LangChain & AI =====
+langchain>=0.2.16  # Modern agent toolkit (v1.0+ semantics)
+langchain-openai>=0.1.7  # OpenAI integration for current LangChain
+langchain-text-splitters>=0.1.4  # Text chunking utilities
+langchain-community>=0.2.11  # Community tool integrations (DuckDuckGo search)
+duckduckgo-search>=6.1.7  # Search backend for DuckDuckGo tools
+openai>=1.12.0  # OpenAI Python SDK
+
+# ===== Document Processing =====
+pypdf>=4.0.0  # PDF text extraction
+beautifulsoup4>=4.12.0  # HTML parsing for web scraping
+requests>=2.31.0  # HTTP client for fetching URLs
+markitdown>=0.0.6  # Markdown conversion with optional visual/LLM support
+
+# ===== Vector Store =====
+chromadb>=0.4.22  # Vector database for embeddings
+
+# ===== Utilities =====
+tenacity>=8.2.3  # Retry logic with exponential backoff
+mcp>=1.26.0  # MCP SDK for local tool servers
+
+# ===== Development Tools (optional, uncomment if needed) =====
+# pytest>=8.0.0  # Testing framework
+# pytest-asyncio>=0.23.0  # Async support for pytest
+# httpx>=0.26.0  # HTTP client for testing FastAPI
+# black>=24.0.0  # Code formatter
+# ruff>=0.2.0  # Fast Python linter
+# mypy>=1.8.0  # Static type checker
+
+# Installation:
+# pip install -r requirements.txt
+#
+# Or with specific Python version:
+# python3.10 -m pip install -r requirements.txt

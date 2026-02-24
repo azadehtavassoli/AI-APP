@@ -1,0 +1,30 @@
+# Core Framework
+streamlit>=1.31.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-text-splitters>=0.1.0
+openai>=1.12.0
+
+# Configuration & Validation
+pydantic>=2.6.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+
+# Document Processing
+pypdf>=4.0.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Vector Store
+chromadb>=0.4.22
+
+# Utilities
+tenacity>=8.2.3
+rich>=13.7.0  # For CLI beautiful output
+mcp>=1.26.0
+
+# Development (optional - uncomment if needed)
+# pytest>=8.0.0
+# pytest-cov>=4.1.0
+# black>=24.0.0
+# ruff>=0.2.0
