@@ -1,0 +1,22 @@
+id,mode,difficulty,question
+1,Behavioral,1,Describe a time you worked on a team.
+2,Behavioral,2,Give an example of a conflict at work and how you resolved it.
+3,Technical,2,Explain how a hash table works.
+4,Behavioral,1,Tell me about a time you worked in a team.
+5,Behavioral,1,Describe a situation where you had to ask for help to complete a task.
+6,Behavioral,1,Give an example of when you showed initiative to improve a process.
+7,Behavioral,2,Describe a situation where you had to meet a tight deadline and how you managed it.
+8,Behavioral,2,Tell me about a time you received critical feedback and what you changed.
+9,Behavioral,2,Describe a time you resolved a disagreement within a team.
+10,Behavioral,3,Give an example of a conflict at work and how you resolved it.
+11,Behavioral,3,Describe a project you led: challenges, decisions, and outcomes.
+12,Behavioral,3,Tell me about a time you made a significant decision with incomplete information.
+13,Technical,1,What is a linked list and where is it used?
+14,Technical,1,Explain what a REST API is and a common use case.
+15,Technical,1,What is the difference between HTTP GET and POST?
+16,Technical,2,Explain the difference between a process and a thread.
+17,Technical,2,How does a database index improve query performance?
+18,Technical,2,Describe how you'd approach debugging a memory leak in an application.
+19,Technical,3,How would you design a URL shortening service?
+20,Technical,3,Design a system to support real-time chat for millions of users (high level).
+21,Technical,3,How would you design a cache invalidation strategy for a distributed cache?
